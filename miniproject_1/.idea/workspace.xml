@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0139d0d4-1ca2-426f-9f81-205de71f29db" name="Default Changelist" comment="" />
+    <list default="true" id="0139d0d4-1ca2-426f-9f81-205de71f29db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__classworlds_classworlds_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__com_jcraft_jsch_0_1_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__commons_cli_commons_cli_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__jtidy_jtidy_4aug2000r7_dev.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__junit_junit_3_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_apache_maven_doxia_doxia_sink_api_1_0_alpha_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_apache_maven_maven_artifact_2_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_apache_maven_maven_artifact_manager_2_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_apache_maven_maven_core_2_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_apache_maven_maven_error_diagnostics_2_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_apache_maven_maven_model_2_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_apache_maven_maven_monitor_2_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_apache_maven_maven_plugin_api_2_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_apache_maven_maven_plugin_descriptor_2_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_apache_maven_maven_plugin_parameter_documenter_2_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_apache_maven_maven_plugin_registry_2_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_apache_maven_maven_profile_2_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_apache_maven_maven_project_2_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_apache_maven_maven_repository_metadata_2_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_apache_maven_maven_settings_2_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_apache_maven_plugins_maven_resources_plugin_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_apache_maven_reporting_maven_reporting_api_2_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_apache_maven_shared_maven_filtering_1_0_beta_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_apache_maven_wagon_wagon_file_1_0_beta_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_apache_maven_wagon_wagon_http_lightweight_1_0_beta_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_apache_maven_wagon_wagon_http_shared_1_0_beta_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_apache_maven_wagon_wagon_provider_api_1_0_beta_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_apache_maven_wagon_wagon_ssh_1_0_beta_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_apache_maven_wagon_wagon_ssh_common_1_0_beta_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_apache_maven_wagon_wagon_ssh_external_1_0_beta_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_codehaus_plexus_plexus_container_default_1_0_alpha_9_stable_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_codehaus_plexus_plexus_interactivity_api_1_0_alpha_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_codehaus_plexus_plexus_interpolation_1_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_2_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__org_sonatype_plexus_plexus_build_api_0_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniproject_2/miniproject_2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../miniproject_2/src/main/java/edu/coursera/parallel/StudentAnalytics.java" beforeDir="false" afterPath="$PROJECT_DIR$/../miniproject_2/src/main/java/edu/coursera/parallel/StudentAnalytics.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,16 +60,14 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/ReciprocalArraySum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="117" column="46" selection-start-line="117" selection-start-column="46" selection-end-line="117" selection-end-column="46" />
+            <state relative-caret-position="390">
+              <caret line="184" column="33" selection-start-line="184" selection-start-column="33" selection-end-line="184" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#4413#4414#0" expanded="true" />
-                <element signature="e#4449#4450#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -33,7 +76,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/FutureTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
+            <state relative-caret-position="3285">
               <caret line="258" column="28" selection-start-line="258" selection-start-column="28" selection-end-line="258" selection-end-column="28" />
             </state>
           </provider>
@@ -51,17 +94,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Runnable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
+            <state relative-caret-position="480">
               <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Future.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="142" column="57" lean-forward="true" selection-start-line="142" selection-start-column="57" selection-end-line="142" selection-end-column="57" />
+              <caret line="142" column="57" selection-start-line="142" selection-start-column="57" selection-end-line="142" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -69,13 +112,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/edu/coursera/parallel/ReciprocalArraySumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
+            <state relative-caret-position="2100">
               <caret line="142" column="8" selection-start-line="142" selection-start-column="8" selection-end-line="142" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -113,6 +159,7 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -188,6 +235,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -305,29 +353,25 @@
       <option name="presentableId" value="Default" />
       <updated>1559989759999</updated>
       <workItem from="1559989761474" duration="5390000" />
+      <workItem from="1560216470723" duration="150000" />
+      <workItem from="1560296264129" duration="158000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5390000" />
+    <option name="totallyTimeSpent" value="5698000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.30975956" />
@@ -335,15 +379,21 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" visible="true" weight="0.093699515" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" visible="true" weight="0.093699515" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,13 +476,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/edu/coursera/parallel/ReciprocalArraySumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="142" column="8" selection-start-line="142" selection-start-column="8" selection-end-line="142" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-902">
@@ -464,22 +507,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Runnable.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/FutureTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/ReciprocalArraySum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="117" column="46" selection-start-line="117" selection-start-column="46" selection-end-line="117" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4413#4414#0" expanded="true" />
-            <element signature="e#4449#4450#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="3285">
+          <caret line="258" column="28" selection-start-line="258" selection-start-column="28" selection-end-line="258" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -490,17 +521,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/FutureTask.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Runnable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="258" column="28" selection-start-line="258" selection-start-column="28" selection-end-line="258" selection-end-column="28" />
+        <state relative-caret-position="480">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/coursera/parallel/ReciprocalArraySumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2100">
+          <caret line="142" column="8" selection-start-line="142" selection-start-column="8" selection-end-line="142" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Future.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="142" column="57" lean-forward="true" selection-start-line="142" selection-start-column="57" selection-end-line="142" selection-end-column="57" />
+          <caret line="142" column="57" selection-start-line="142" selection-start-column="57" selection-end-line="142" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/ReciprocalArraySum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="184" column="33" selection-start-line="184" selection-start-column="33" selection-end-line="184" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
